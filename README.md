@@ -102,10 +102,10 @@ Language Detection:
 
 #### 6. Future Work
 
-    Addressing Class Imbalance: Use techniques such as SMOTE (Synthetic Minority Oversampling Technique) or class weighting to address the issue of imbalanced classes.
-    Advanced Modeling: Explore deep learning models such as BERT or LSTM for better text classification performance.
-    Multi-language Analysis: Expand the sentiment analysis to include other languages, such as French, Spanish, and Arabic.
-    Topic Modeling: Use topic modeling algorithms like Latent Dirichlet Allocation (LDA) to extract more meaningful topics from the reviews.
+- Addressing Class Imbalance: Use techniques such as SMOTE (Synthetic Minority Oversampling Technique) or class weighting to address the issue of imbalanced classes.
+- Advanced Modeling: Explore deep learning models such as BERT or LSTM for better text classification performance.
+- Multi-language Analysis: Expand the sentiment analysis to include other languages, such as French, Spanish, and Arabic.
+- Topic Modeling: Use topic modeling algorithms like Latent Dirichlet Allocation (LDA) to extract more meaningful topics from the reviews.
 
 #### 7.  Source
 
